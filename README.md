@@ -63,7 +63,7 @@ I'm a BCA student passionate about building practical software solutions and lea
 
 🎖️ GDGoC VTU Summer Dev-Sprint
 
-""Participants Badge" (https://devsprint-lime.vercel.app/api/badge/participant-19.svg)" (https://devsprint-lime.vercel.app/verify/participant-19)
+[![Participants Badge](https://devsprint-lime.vercel.app/api/badge/participant-19.svg)](https://devsprint-lime.vercel.app/verify/participant-19)
 
 ---
 
