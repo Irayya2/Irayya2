@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Irayya Hiremath
+# Hi, I'm Irayya Hiremath
 
 ### 💻 BCA Student | Backend Developer | Full-Stack Enthusiast
 
@@ -9,7 +9,8 @@ I'm a BCA student passionate about building practical software solutions and lea
 🚀 **Currently working on:** Web applications, automation tools, and college projects  
 🤝 **Looking to collaborate on:** Open-source projects, web development projects, and hackathons  
 💬 **Ask me about:** Python, JavaScript, React, Node.js, Git & GitHub, HTML/CSS  
-📫 **How to reach me:** GitHub / LinkedIn  
+📫 **How to reach me:** github : https://github.com/irayya2//
+linkedin : https://www.linkedin.com/in/irayya-hiremath-aa0232330?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ⚡ **Fun fact:** I enjoy turning ideas into working projects and learning by building.
 
 ---
@@ -36,9 +37,6 @@ I'm a BCA student passionate about building practical software solutions and lea
 - REST APIs
 
 ### Database
-- MySQL
-- Oracle
-- MongoDB
 - Supabase
 
 ### Tools
@@ -48,24 +46,6 @@ I'm a BCA student passionate about building practical software solutions and lea
 - Netlify
 - Vercel
 - Render
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 CodeZone Certificate Generator
-A web application for generating personalized certificates with downloadable PNG and PDF formats.
-
-### 🧠 CODEQUIZ
-An online quiz platform designed for conducting technical quizzes and managing participants.
-
-### 📱 Unofficial Freshers Day
-A student event registration platform built with React, Vite and Supabase.
-
-### 📷 QR Scanner
-A QR-based student identification and information management system.
-
----
 
 ## 🏆 Achievements
 
